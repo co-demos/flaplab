@@ -1,0 +1,28 @@
+{
+  "name": "flaplab-nuxt",
+  "version": "1.0.0",
+  "description": "flaplab as nuxt project",
+  "author": "Julien_P",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "graphlib": "^2.1.7",
+    "matter-js": "^0.14.2",
+    "nuxt": "^2.4.0",
+    "three-js": "^79.0.0",
+    "vue-threejs": "^0.2.0-alpha.1",
+    "vuetify": "^1.5.5",
+    "vuetify-loader": "^1.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  }
+}
